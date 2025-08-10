@@ -383,11 +383,11 @@ case "$ACTION" in
 		exit 0
 		;;
 	"upleftedge")
-		sxmo_audio.sh vol up
+		#sxmo_audio.sh vol up
 		exit 0
 		;;
 	"downleftedge")
-		sxmo_audio.sh vol down
+		#sxmo_audio.sh vol down
 		exit 0
 		;;
 	"upbottomedge")
